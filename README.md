@@ -20,7 +20,7 @@ Analyze the elements {19, 16, 13, 10, 7, 3, 0} using the `Selection Sort` and `Q
 ### Implementation
 * Implement the elements {19, 16, 13, 10, 7, 3, 0} using the `Selection Sort` and `Quick Sort` algorithms with the **minimum number** of 
  steps.
-[Selection sort](https://csvistool.com/SelectionSort) and [Quick sort](https://csvistool.com/QuickSort).
+[Selection sort](https://csvistool.com/SelectionSort) and [Quick sort](https://csvistool.com/Quicksort).
 * What are the **key** differences between the `Selection sort` and `Quick sort` algorithms?
 > After you resolve the project kindly upload it as an issue.
   
